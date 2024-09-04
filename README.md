@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Boualem</h1>
-<h3 align="center">A passionate Data Scientist & Engineering</h3>
+<h3 align="center">A passionate Data Scientist & Data Engineer</h3>
 
 - 🔭 I’m currently working on **using LLMs on SQL**
 
