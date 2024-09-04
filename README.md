@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Boualem</h1>
 <h3 align="center">A passionate Data Scientist & Data Engineer</h3>
 
-- 🔭 I’m currently working on **using LLMs on SQL**
+- 🔭 I’m currently working on **using LLMs for SQL**
 
 - 🌱 I’m currently learning **Cloud computing & Hadoop**
 
