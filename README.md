@@ -1,3 +1,5 @@
+<a href="http://github.com/MariaBlm"><img alt="Maria Boualem Banner" src="https://raw.githubusercontent.com/MariaBlm/MariaBlm/main/banner.svg"/></a>
+<a href="http://github.com/MariaBlm"><img alt="Maria Boualem Banner" src="https://github.com/MariaBlm/MariaBlm/blob/main/banner.svg"/></a>
 <h1 align="center">Hi 👋, I'm Maria Boualem</h1>
 <h3 align="center">A passionate Data Scientist & Engineering</h3>
 
