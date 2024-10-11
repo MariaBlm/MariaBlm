@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **using LLMs for SQL**
 
-- 🌱 I’m currently learning **Cloud computing **
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 💬 Ask me about **Deep learning, data science**
 
