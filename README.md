@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Deep learning, data science**
+- 💬 Ask me about **Deep learning, Data science**
 
 - 📫 How to reach me **maria.boualem16@gmail.com**
 
